@@ -2,7 +2,7 @@
 
 参考記事
 
-※参考：[React】styled-componentsでCSS in JSを事始める](https://www.i-ryo.com/entry/2020/12/16/052128)【
+※参考：[【React】styled-componentsでCSS in JSを事始める](https://www.i-ryo.com/entry/2020/12/16/052128)
 
 Reactまとめ
 
